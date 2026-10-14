@@ -1,0 +1,31 @@
+{ 
+  "name": "Reina Tamiao", 
+  "tagline": "Aspiring Networking", 
+  "introduction": "I am an IT student interested in Networking and configuring.", 
+  "profileImage": "images/profile.jpg", 
+  "about": { 
+    "biography": "I enjoy learning programming, exploring technology, and developing practical applications.",     "school": "Example State University", 
+    "program": "Bachelor of Science in Information Technology", 
+    "graduation": "Expected graduation: 2027", 
+    "careerGoal": "To become a professional Networking Analyst.", 
+    "interests": "Web development, databases, UI design, and problem solving." 
+  }, 
+  "skills": ["HTML", "CSS", "JavaScript", "Java", "MySQL", "Problem Solving"], 
+  "projects": [ 
+    
+    { 
+      "title": "Personal Portfolio", 
+      "description": "A responsive website presenting my profile, skills, and academic work.", 
+      "technologies": "HTML, CSS, JavaScript", 
+      "role": "Designed and developed the website.", 
+      "image": "images/project2.jpg", 
+      "link": "https://github.com/ynagaspar/student-portfolio" 
+    } 
+
+  ], 
+  "githubUsername": "ynagaspar", 
+  "contact": { 
+    "email": "reinatamiao@gmail.com", 
+    "location": "Nueva Vizcaya, Philippines", 
+    "linkedin": "https://www.linkedin.com/"   } 
+} 
